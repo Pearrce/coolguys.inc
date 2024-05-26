@@ -1,0 +1,2 @@
+# coolguys.inc
+ Game Files
